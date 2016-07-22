@@ -1,11 +1,9 @@
 package goitOnline3.module8;
 
-
 import javax.swing.event.TableModelListener;
 import javax.swing.table.TableModel;
 import java.util.ArrayList;
 import java.util.HashSet;
-import java.util.List;
 import java.util.Set;
 
 public class MyTable implements TableModel {

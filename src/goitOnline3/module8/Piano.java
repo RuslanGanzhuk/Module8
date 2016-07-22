@@ -1,14 +1,14 @@
 package goitOnline3.module8;
 
-public class Guitar extends MusicInstrument {
+public class Piano extends MusicInstrument {
 
-    private String name = "Guitar";
+    private String name = "Piano";
     private String price = "default";
     private String color = "default";
     private String description = "description";
 
     @Override
-    public  String getName() {
+    public String getName() {
         return name;
     }
 
